@@ -42,7 +42,7 @@ Wine_Classification_Model/
 
 ## Results
 
-Model performance and evaluation results will be added after training.
+Model achieved 97.22% accuracy
 
 ## Author
 
